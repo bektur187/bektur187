@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hallo, ich bin Bektur 👋
 
-<!--
-**bektur187/bektur187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+- 🔭 Ich arbeite derzeit an spannenden Projekten in den Bereichen Kotlin und PHP.
+- 🌱 Ich lerne ständig neue Technologien und verbessere meine Fähigkeiten in der App- und Webentwicklung.
+- 💬 Fragen Sie mich über Kotlin, Android Apps und PHP-Webentwicklung.
+- ⚡ Fun Fact: Ich liebe es, neue Technologien zu entdecken und kreative Lösungen zu entwickeln.
 
-Here are some ideas to get you started:
+## Meine Interessen
+- Kotlin - Android Apps
+- PHP Webseiten
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meine Projekte
+- plantmonitor
